@@ -7,7 +7,6 @@ for
 with
 for
 merging
-ADDED LINES
 1
 2
 3
