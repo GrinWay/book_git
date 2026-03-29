@@ -1,6 +1,12 @@
-file1
+file
 with
 interesting
 content
 for
 merging
+
+
+ADDED LINES
+1
+2
+3
