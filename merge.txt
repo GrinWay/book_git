@@ -1,4 +1,4 @@
-file
+m6 file
 with
 interesting
 content
