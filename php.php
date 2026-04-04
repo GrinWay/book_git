@@ -3,7 +3,9 @@
 $a = 1;
 
 class A {
-	public function __construct() {
+	private mixed $wow;
+
+	public function __construct(mixed $wow) {
 		$this->wow = $wow;
 	}
 }
