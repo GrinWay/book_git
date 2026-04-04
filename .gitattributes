@@ -1,3 +1,0 @@
-*.html diff=echo
-*.css diff=css
-*.txt -merge
