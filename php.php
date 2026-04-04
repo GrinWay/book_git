@@ -2,4 +2,4 @@
 
 $a = 1;
 
-echo $a;
+echo 1 . $a;
